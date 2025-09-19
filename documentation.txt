@@ -1,0 +1,42 @@
+====== Guide d’installation du client Luanti ======
+
+Ce guide explique comment installer le client Luanti sur Windows 11
+
+===== Installation du client Luanti =====
+
+  - Allez sur le site officel suivant : https://www.luanti.org/downloads/
+  - Téléchargé la version correspondant à votre OS (Windows, Mac OS, Linux). Dans notre cas on vous montre comment faire pour Windows! {{img/download.png|Page de Download}}
+
+==== Windows ====
+
+  - Décompresser le fichier télécharger et chercher pour le dossier bin. {{img/dossierbin.png|Dossier bin}}
+  - Lancez le fichier ce situant dans le dossier bin luanti.exe. {{img/luantifichier.png|Exécution de luanti.exe}}
+  - Et voila maintenant vous venez de lancer client Luanti {{img/luanti.png|Client Luanti ouvert}}
+
+====== Faire l’installation de Minetest ou Mineclonia. ======
+
+Ce guide explique comment installer Minetest à partir de client Luanti sur Windows 11 ## Installation de Minetest ou Mineclonia
+
+  - Ouvrer l’application client Luanti et cliquez sur le boutton “Installer un jeu” {{img/luanti.png|Client Luanti ouvert}}
+  - Cliquez sur le boutton qui présente “Minetest Game by Luanti”. {{img/minetest.png|Minetest lien vers installation}}
+  - Cliquez ensuite sur le boutton “Installez [3.0 MB]” et cela téléchargera Minetest sur votre application Luanti. {{img/minetestdownload.png|Installation de Minetest}}
+  - Pour etre sur si vous avez bien télécharger Minetest vous aurez le boutton “Désinstaller” qui remplacera l’ancien boutton. {{img/minetestdownloadfinish.png|Confirmation d’installation de Minetest}}
+
+====== Connexion à un serveur Minetest distant ======
+
+Ce guide explique comment ce connecter à un serveur Minetest distant à travers l’application client Luanti.
+
+===== Étapes de connexion =====
+
+  - Dirigez-vous vers la page d’accueil de Luanti. Par la suite cliquez sur le boutton “Rejoindre une partie”. {{img/pageaccueil.png|Page d’accueil}}
+  - Sur cette page sélectionner un serveur de votre choix et par la suite cliquer sur “S’inscrire” {{img/partieenligne.png|Connexion multijoueur}}
+  - Créez-vous un compte avec un nom d’utilisateur et un mot de passe. {{img/inscription.png|Inscrption multijoueur}}
+  - Par la suite entrer vos information pour vous connectez et cliquer sur le boutton “Connexion”. {{img/connexion.png|Connexion multijoueur}}
+  - Maintenant attendez que que le chargement du serveur distant finit. {{img/loading.png|Chargement}}
+  - Après quelques secondes vous aurez une page similaire qui prouvera que la connexion à bien fonctionnée. {{img/succes.png|Connexion réussie}}
+
+====== Diagramme de réseau de la connexion entre client et serveur distant de Minetest. ======
+
+{{img/tp1_serveur_distant_minetest.png|Diagramme de réseaux}}
+Diagramme de réseaux
+
